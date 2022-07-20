@@ -1,2 +1,1 @@
-# DSG
-Dbatu Student's Guide
+# read me#
